@@ -1,12 +1,12 @@
+# Nerves System for Overseer
+
+This project provides a [Nerves System](https://hexdocs.pm/nerves/systems.html) for the [Overseer](https://github.com/aj-foster/overseer) application. It is a fork of the [Nerves System for Raspberry Pi 3 Model B / B+](https://github.com/nerves-project/nerves_system_rpi3). It is unlikely that you want to use this system in your own project.
+
+An abridged version of the original readme is below.
+
 # Raspberry Pi 3 Model B / B+
 
-[![CircleCI](https://circleci.com/gh/nerves-project/nerves_system_rpi3.svg?style=svg)](https://circleci.com/gh/nerves-project/nerves_system_rpi3)
-[![Hex version](https://img.shields.io/hexpm/v/nerves_system_rpi3.svg "Hex version")](https://hex.pm/packages/nerves_system_rpi3)
-
 This is the base Nerves System configuration for the Raspberry Pi 3 Model B.
-
-![Fritzing Raspberry Pi 3 image](assets/images/raspberry-pi-3-model-b.png)
-<br><sup>[Image credit](#fritzing)</sup>
 
 | Feature              | Description                                                 |
 | -------------------- | ----------------------------------------------------------- |
